@@ -7,7 +7,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Menu Utama')),
+      appBar: AppBar(title: const Text('Ini Menu Utama')),
       body: Center(
         child: ElevatedButton(
           onPressed: () {
